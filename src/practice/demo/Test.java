@@ -32,6 +32,7 @@ public class Test {
                     inputstreamreader);
             while ((line = bufferedreader.readLine()) != null) {
                 System.out.println(line);
+                System.out.println(line);
             }
         }
         catch (IOException e) {
