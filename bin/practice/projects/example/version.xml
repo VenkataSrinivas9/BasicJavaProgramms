@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entity>
+        <SystemInformation name="File Operating System" version="6.1.0-00" build="06-01-00-00-00-04"/>
+        <ProductInformation name="Hitachi Virtual File Platform" version="6.1.0-00" build="06-01-00-00-00-04"/>
+        <InstallInformation timeout="60" interval="15"/>
+        <MediaInformation install_file="install_files.tar.gz"/>
+        <ZoneInformation zone="0"/>
+        <BuildDate date="2016-05-30"/>
+</Entity>

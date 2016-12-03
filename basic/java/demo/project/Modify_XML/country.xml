@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+    <countryName>India</countryName>
+<countryPopulation>5000000.0</countryPopulation>
+<TotalStates>29</TotalStates>
+<TotalStates>29</TotalStates>
+    <States>
+        <stateName>Andhra Pradesh</stateName>
+        <statePopulation>90000</statePopulation>
+</States>
+    <States>
+        <stateName>Tamil Nadu</stateName>
+        <statePopulation>200000</statePopulation>
+</States>
+	      <States>
+        <stateName>Fury</stateName>
+        <statePopulation>200000</statePopulation>
+</States>
+</country>

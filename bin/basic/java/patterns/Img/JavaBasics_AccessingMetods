@@ -1,0 +1,22 @@
+Java Basics
+------
+Accessing Method
+----------------------
+private - method can be called inside the class
+
+    Same package
+    --------------------------
+        You can access default, public, protected attributes using child or parent object
+
+    Outside package
+    --------------------------
+        You can access public attributes using parent object
+        You can access public, protected attributes using child object
+
+
+Overriding Method - Inheritance
+----------------------
+public - can override method inside project
+protected - can override method inside project
+default - you can overide only inside package
+private - you cannot overide anywhere

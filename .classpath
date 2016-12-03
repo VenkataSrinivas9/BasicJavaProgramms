@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/activation.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/asm-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/base64.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/c3p0-0.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/cglib-2.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/commons-beanutils.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/commons-codec.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/concurrent-1.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/dbmapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/ehcache-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/hibernate3.jar" sourcepath="D:/JavaWorkSpace/BasicJava_Demos/hibernate3.jar.src.zip"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/hitj2ee.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/hntrlib2j.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/jaxb-api-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/jaxb-impl-2.1.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/jersey-core-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/jersey-server-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/jsr173_api.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/jta.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/junit-3.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/JavaWorkSpace/BasicJava_Demos/lib/joda-time-2.1.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/poi-3.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

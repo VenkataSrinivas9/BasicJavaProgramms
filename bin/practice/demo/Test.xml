@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+	<studentID>1234</studentID>
+	<studentName>Ram</studentName>
+	<studentDept>IT</studentDept>
+	<studentGender>M</studentGender>
+	<studentDOB>
+		<DD>09</DD>
+		<MM>06</MM>
+		<YYYY>1991</YYYY>
+	</studentDOB>
+</Student>
