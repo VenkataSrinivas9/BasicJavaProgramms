@@ -19,6 +19,7 @@ public class Test {
             whichJDK = javaHome[1];
         }
         try {
+            // try block
             path = whichJDK + "\\\\bin";
             String cmds[] = { "check.bat", pathFile, whichJDK, path };
             Runtime runtime = Runtime.getRuntime();
